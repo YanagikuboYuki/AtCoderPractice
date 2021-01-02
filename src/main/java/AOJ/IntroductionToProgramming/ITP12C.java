@@ -18,6 +18,7 @@ public class ITP12C {
             }
             System.out.print(nums[i]);
         }
+        System.out.println();
     }
 }
 
