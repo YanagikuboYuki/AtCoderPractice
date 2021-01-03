@@ -108,6 +108,7 @@ public class ITP16B {
 //}
 
 // 参考コード2
+// boolean のインスタンスの初期値はfalse
 //import java.util.Scanner;
 //
 //public class Main {
